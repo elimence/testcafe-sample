@@ -1,7 +1,7 @@
 import { Selector } from 'testcafe';
 
-// const origin = 'https://yamaha-dealers.com/ymus/loginForm?out';
-const origin = 'https://www.paysail.co';
+// const origin = 'https://www.paysail.co';
+const origin = 'https://yamaha-dealers.com/ymus/loginForm?out';
 
 
 fixture(`govdocs regression tests - ${origin}`)
